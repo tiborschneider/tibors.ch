@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://tibors.ch/sitemap.xml
